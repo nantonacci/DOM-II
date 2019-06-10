@@ -2,7 +2,7 @@
 
 //Fun Bus bold when dblclick
 const funBus = document.querySelector('.logo-heading');
-
+//
 funBus.addEventListener('dblclick', () => {
   funBus.style.fontWeight = 'bold';
 });
